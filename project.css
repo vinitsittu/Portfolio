@@ -6,7 +6,7 @@
       text-align: center;
       h1{
         text-align: center;
-        font-size: 70px;
+        font-size: 50px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: yellow;
     
@@ -66,8 +66,8 @@
 }
 
 .block img.image {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     float: left;
     border-radius: 60px;
     
@@ -81,12 +81,12 @@
 
 .block .des{
 
-    margin-left: 30px;
+    margin-left: 40px;
    
 }
 
 .block .des p {
-    font-size: larger;
+    font-size: medium;
     padding: 10px;
     color:rgb(238, 238, 134);
     font-style: italic;
